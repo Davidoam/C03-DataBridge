@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Pet Profile",
+    "slug": "pet-profile-ejercicio-03",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}

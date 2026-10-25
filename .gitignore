@@ -1,0 +1,21 @@
+# Dependencias
+**/node_modules/
+
+# Builds y cachés
+**/dist/
+**/.expo/
+**/.cache/
+**/*.tsbuildinfo
+
+# Configuración local y secretos
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs y archivos del sistema
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/.DS_Store
+**/Thumbs.db
+**/AGENTS.md

@@ -1,0 +1,11 @@
+backend/node_modules/
+backend/dist/
+backend/*.tsbuildinfo
+backend/.env
+backend/.env.*
+!backend/.env.example
+frontend/node_modules/
+frontend/.expo/
+frontend/dist/
+frontend/web-build/
+

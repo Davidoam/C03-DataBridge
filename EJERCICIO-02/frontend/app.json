@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "CineBox",
+    "slug": "cinebox-ejercicio-02",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}

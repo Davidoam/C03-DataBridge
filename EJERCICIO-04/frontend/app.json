@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Food Spots",
+    "slug": "food-spots-ejercicio-04",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
